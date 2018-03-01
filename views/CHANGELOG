@@ -1,0 +1,17 @@
+201X -XX -XX Tremory App Beta v.XX
+
+
+2017-12-18 Tremory App Beta v.1
+- Login
+- Menu (Home, Notification, Search, Profile)
+- View profile
+- View images
+- Create Album
+- View Album
+- View image
+- View friends
+- View notification
+- Respond friend request
+- Send friend request
+- Upload image
+- Properly strip geocode from uploaded image

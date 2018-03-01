@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/Alfred/Tremory/TremoryApp/node_modules/react-native-cookies/ios/RNCookieManagerIOS/RNCookieManagerIOS.m \
+  /Users/Alfred/Tremory/TremoryApp/node_modules/react-native-cookies/ios/RNCookieManagerIOS/RNCookieManagerIOS.h \
+  ../../../node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  ../../../node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Alfred/Tremory/TremoryApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

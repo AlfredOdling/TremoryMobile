@@ -1,0 +1,5 @@
+const SEND_PAYLOAD = 'SEND_PAYLOAD'
+
+export {
+   SEND_PAYLOAD
+}

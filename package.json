@@ -1,0 +1,53 @@
+{
+  "name": "TremoryApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "build-dev": "react-native run-ios --configuration Debug",
+    "build-prod": "react-native run-ios --configuration Release"
+  },
+  "dependencies": {
+    "google-maps": "^3.2.1",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.0",
+    "radio-button-react-native": "^1.1.6",
+    "react": "16.2.0",
+    "react-native": "0.52.1",
+    "react-native-autocomplete-input": "^3.5.0",
+    "react-native-background-upload": "^4.1.0",
+    "react-native-battery": "0.1.14",
+    "react-native-cookies": "^3.2.0",
+    "react-native-elements": "0.19.0",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-geocoding": "^0.2.0",
+    "react-native-image-pan-zoom": "2.0.16",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-image-rotate": "^2.0.0",
+    "react-native-keep-awake": "^2.0.6",
+    "react-native-lightbox": "^0.7.0",
+    "react-native-maps": "^0.19.0",
+    "react-native-modalbox": "^1.4.2",
+    "react-native-photo-view": "^1.5.2",
+    "react-native-vector-icons": "4.5.0",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.7.2",
+    "redux-combine-actions": "^0.1.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.5.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,10 @@
+Git replace branch by another
+
+git checkout seotweaks
+git merge -s ours master
+git checkout master
+git merge seotweaks
+
+// (Bra att kolla på sedan ifall man vill implementera liknande) ==> 
+// config to not persist the *counterString* of the CounterReducer's slice of the global state.
+// const configCounterReducer = { key: "root", storage, blacklist: ["counterString"] } 
